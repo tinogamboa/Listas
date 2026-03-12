@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ANIMAL PLANET.ar" tvg-name="Animal Planet" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Hd",Animal planet
-http://zerotwo.access.ly:2096/buddy182/6LkRAfUHhC/775763
-#EXTINF:-1 tvg-id="Canal 7.mx" tvg-name="Canal 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Hd",Canal 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild.pe" tvg-name="Nat Geo WILD" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-wild.jpg" group-title="Hd",Nat geo wild
-http://zerotwo.access.ly:2096/buddy182/6LkRAfUHhC/775848
