@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bandamax" tvg-id="Bandamax.mx" tvg-logo="http://mundo2.pro:80/images/fe568bbd18b47f549df400f198e55756.png" group-title="Música",BANDAMAX
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/9621.ts
-#EXTINF:-1 tvg-name="TELEHIT LATINO" tvg-id="Telehit.mx" tvg-logo="http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png" group-title="Película",CINEMAX
+#EXTINF:-1 tvg-name="TELEHIT LATINO" tvg-id="Telehit.mx" tvg-logo="http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png" group-title="Premium",CINEMAX
 http://200.48.65.77:8000/play/a005?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA8yNzUyNTQ2OTI1OTgyNzkAAR717zxy-Bm-wUNo39npg0iPaq6hAu_ZyWMA5iMSNA4OS_UrUg4fOSTp25dtLw_aem_-OAOvMvBwrMc1paMxnef0w
 #EXTINF:-1 tvg-name="Teleritmo" tvg-id="Teleritmo.mx" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="24/7",24/7 | MIRACULOUS
 http://xdplus.site:8880/live/AndresLLpro/TqhsHqdxsT/217139.ts
