@@ -45,7 +45,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/9599.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX.mx" tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="Premium",CINE LATINO
 http://planettvweb.com:8091/live/Maria9567/Dlun3685m/20352.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-id="Canal 7.mx" tvg-logo="http://i.ibb.co/CJhfsQN/Azteca-7-2019-2.png" group-title="TV México",AZTECA 7 HD
+#EXTINF:-1 tvg-name="Canal 7" tvg-id="Canal 7.mx" https://i.ibb.co/CJhfsQN/Azteca-7-2019-2.png" group-title="TV México",AZTECA 7 HD
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/241992.m3u8
 #EXTINF:-1 tvg-name="DE PELICULA" tvg-id="DE PELICULA.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Premium",DE PELICULA
 http://181.224.200.5:2277/play/a0d1/index.m3u8
