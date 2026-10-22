@@ -1,121 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bandamax" tvg-id="Bandamax.mx" tvg-logo="http://mundo2.pro:80/images/fe568bbd18b47f549df400f198e55756.png" group-title="Música",BANDAMAX
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/Bandamax_logo_2010_hahaha.webp" group-title="Música",Bandamax
 http://skynetdigital.us:8080/live/Franciscov23/SCSdZK5/278304.m3u8
-#EXTINF:-1 tvg-name="TELEHIT LATINO" tvg-id="Telehit.mx" tvg-logo="http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png" group-title="Premium",CINEMAX
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="Premium",Cinemax
 http://38.65.175.84:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-name="Teleritmo" tvg-id="Teleritmo.mx" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" group-title="24/7",24/7 | MIRACULOUS
-http://xdplus.site:8880/live/AndresLLpro/TqhsHqdxsT/217139.ts
-#EXTINF:-1 tvg-name="Tierra de Osos (2003)" tvg-logo="http://mundo2.vip:80/images/367486df722cf5746c9f0ba1cdb7df4a.jpg" group-title="Películas",Tierra de Osos (2003)
-http://goldtv.lat/movie/A82204C10E75/2204C10E75/472736.mkv
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | DRAGON BALL 1 AL 43
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/17753.m3u8
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | BOB ESPONJA
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/16421.m3u8
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | LA PANTERA ROSA
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/17765.m3u8
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | LA LOS PADRINOS MÁGICOS
-http://xdplus.site:8880/live/AndresLLpro/TqhsHqdxsT/531670.ts
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | LA MASHA Y EL OSO
-http://xdplus.site:8880/live/AndresLLpro/TqhsHqdxsT/177124.ts
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | LA LOS PITUFOS
-http://xdplus.site:8880/live/LuisGuillenA/FPPHF/221633.ts
-#EXTINF:-1 tvg-name="La era de hielo (2002)" tvg-logo="http://mundo2.vip:80/images/4679f286b8a041aaddf4207576123023.jpg" group-title="Películas",La era de hielo (2002)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/348943.mkv
-#EXTINF:-1 tvg-name="La era de hielo 2 (2006)" tvg-logo="http://mundo2.vip:80/images/a59ee5475586f54e532bfca7d9c60b13.jpg" group-title="Películas",La era de hielo 2 (2006)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/346913.mkv
-#EXTINF:-1 tvg-name="La era de hielo 3 (2009)" tvg-logo="http://mundo2.vip:80/images/4bb764b53006b8e5cb30e4279024ce17.jpg" group-title="Películas",La era de hielo 3 (2009)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/348941.mkv
-#EXTINF:-1 tvg-name="La era de hielo 4 (2012)" tvg-logo="http://mundo2.vip:80/images/8471b298a80103c42ceb8cddb37fd6ff.jpg" group-title="Películas",La era de hielo 4 (2012)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/346915.mkv
-#EXTINF:-1 tvg-name="La era de hielo: Choque de mundos (2016)" tvg-logo="http://mundo2.vip:80/images/4164b5d83d09c7374e0917ec9aa961cd.jpg" group-title="Películas",La era de hielo: Choque de mundos (2016)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/351123.mkv
-#EXTINF:-1 tvg-name="La era de hielo: La gran búsqueda de pascua (2016)" tvg-logo="http://mundo2.vip:80/images/c32cba9ea261977b8c7fdd907524d31f.jpg" group-title="Películas",La era de hielo: La gran búsqueda de pascua (2016)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/351124.mkv
-#EXTINF:-1 tvg-name="Jumanji: En la selva (2017)" tvg-logo="http://mundo2.vip:80/images/da62dd5e84a4e895d4a925f1521308fb.jpg" group-title="Películas",Jumanji: En la selva (2017)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/346888.mkv
-#EXTINF:-1 tvg-name="Jumanji 3 El Siguiente Nivel 2019" tvg-logo="http://mundo2.pro:80/images/33e22a5121fb1194e4631e6d5db43bc7.jpg" group-title="Películas",Jumanji 3 El Siguiente Nivel 2019
-http://dplatino.net:80/movie/credito3geotv/car26octtv/346886.mkv
-#EXTINF:-1 tvg-name="Hércules (1997)" tvg-logo="http://23.131.184.195:80/images/c4811cb1cc94a9b690420684556741dd.jpg" group-title="Películas",Hércules (1997)
-http://dplatino.net:80/movie/credito3geotv/car26octtv/351085.mkv
-#EXTINF:-1 tvg-name="Animal Planet" tvg-id="ANIMAL PLANET.ar" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Premium",ANIMAL PLANET
+#EXTINF:-1 tvg-id="ANIMAL PLANET.ar" tvg-name="Animal Planet" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Premium",Animal planet
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/554566.ts
-#EXTINF:-1 tvg-name="Azteca uno" tvg-id="Azteca uno.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png" group-title="TV México",AZTECA UNO
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/9599.m3u8
-#EXTINF:-1 tvg-name="CANAL 5" tvg-id="Canal 5.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TV México",CANAL 5 HD
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
-#EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX.mx" tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="Premium",CINE LATINO
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/20352.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-id="Canal 7.mx" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/Azteca-7-2019-2.png" group-title="TV México",AZTECA 7 HD
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/241992.m3u8
-#EXTINF:-1 tvg-name="DE PELICULA" tvg-id="DE PELICULA.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Premium",DE PELICULA
+#EXTINF:-1 tvg-id="CINEMAX.mx" tvg-name="CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Premium",CINE LATINO
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/55511.m3u8
+#EXTINF:-1 tvg-id="DE PELICULA.mx" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Premium",De pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-name="DE PELICULA PLUS" tvg-id="DE PELICULA PLUS.mx" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="Premium",DE PELICULA PLUS
+#EXTINF:-1 tvg-id="DE PELICULA PLUS.mx" tvg-name="DE PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="Premium",De pelicula plus
 http://200.115.120.1:8000/play/ca030/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL.mx" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="Premium",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Discovery channel
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/576517.ts
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-id="DISCOVERY KIDS.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Premium",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Premium",Discovery kids
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/36459.ts
-#EXTINF:-1 tvg-name="GOLDEN" tvg-id="GOLDEN.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Premium",GOLDEN
+#EXTINF:-1 tvg-id="GOLDEN.mx" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Premium",Golden
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/576582.ts
-#EXTINF:-1 tvg-name="GOLDEN EDGE" tvg-id="GOLDEN EDGE.mx" tvg-logo="http://mundo2.vip:8080/images/91019a5463e546d88723d04941e78457.png" group-title="Premium",GOLDEN EDGE
+#EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Golden edge
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/439804.ts
-#EXTINF:-1 tvg-name="GOLDEN PREMIER" tvg-id="GOLDEN PREMIER.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Premium",GOLDEN PREMIER
+#EXTINF:-1 tvg-id="GOLDEN PREMIER.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Premium",Golden premier
 http://200.57.28.141:8540/play/a0ln
-#EXTINF:-1 tvg-name="HBO" tvg-id="HBO.mx" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="Premium",Hbo
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/218176.ts
-#EXTINF:-1 tvg-name="HBO 2" tvg-id="HBO 2.mx" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="Premium",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.mx" tvg-name="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="Premium",Hbo 2
 http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-id="HBO FAMILY.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Premium",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo family
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/439797.ts
-#EXTINF:-1 tvg-name="HBO PLUS" tvg-id="HBO PLUS.mx" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",HBO PLUS
+#EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",Hbo plus
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
-#EXTINF:-1 tvg-name="HBO XTREME" tvg-id="HBO XTREME.mx" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="Premium",HBO XTREME
-http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/185175.ts
-#EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-id="Estrellas.mx" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="TV México",CANAL DE LAS ESTRELLAS
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/415379.ts
-#EXTINF:-1 tvg-name="NAT GEO" tvg-id="NAT GEO.mx" group-title="Premium",NAT GEO
+#EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo xtreme
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1 tvg-id="NAT GEO.mx" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Nat geo
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/242015.ts
-#EXTINF:-1 tvg-name="Nat Geo WILD" tvg-id="National Geographic Wild.pe" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-wild.jpg" group-title="Premium",NAT GEO WILD
+#EXTINF:-1 tvg-id="National Geographic Wild.pe" tvg-name="Nat Geo WILD" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-wild.jpg" group-title="Premium",Nat geo wild
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/36470.ts
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" tvg-id="PARAMOUNT CHANNEL.mx" group-title="Película",Balto 2: Aventura en la tierra de hielo
-http://xdplus.site:8880/movie/JUA17CARR/XZDHP/89830.mp4
-#EXTINF:-1 tvg-name="Sony 4K" tvg-id="SONY CHANNEL.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium",SONY CHANNEL
+#EXTINF:-1 tvg-id="SONY CHANNEL.mx" tvg-name="Sony 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium",Sony channel
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/199523.ts
-#EXTINF:-1 tvg-name="SYFY" tvg-id="SYFY.mx" group-title="Premium",SYFY
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" group-title="Premium",Syfy
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/19561.ts
-#EXTINF:-1 tvg-name="TELEMUNDO" tvg-id="TELEMUNDO.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Película",Los padrinos mágicos - La película
-http://xdplus.site:8880/movie/BraulioGrijalbaP/DRHVN/88938.mkv
-#EXTINF:-1 tvg-name="TELENOVELAS" tvg-id="TELENOVELAS.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png" group-title="Película",Madagascar: La Pócima del Amor (2013)
-http://xdplus.site:8880/movie/BraulioGrijalbaP/DRHVN/5133.mp4
-#EXTINF:-1 tvg-name="TNT" tvg-id="TNT.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Premium",TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Premium",Tnt
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/439741.ts
-#EXTINF:-1 tvg-name="WARNER TV" tvg-id="WARNER TV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Premium",WARNER TV
+#EXTINF:-1 tvg-id="WARNER TV.mx" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Premium",Warner tv
 http://88.212.15.17/live/warner_tv/index.m3u8
-#EXTINF:-1 tvg-name="SPACE" tvg-id="SPACE.mx" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="Premium",SPACE
+#EXTINF:-1 tvg-id="SPACE.mx" tvg-name="SPACE" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="Premium",Space
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/159153.ts
-#EXTINF:-1 tvg-name="Disney Junior" tvg-id="Disney Junior.mx" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/epg_dj_v2_f3afa019.jpeg" group-title="Premium",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior.mx" tvg-name="Disney Junior" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/epg_dj_v2_f3afa019.jpeg" group-title="Premium",Disney junior
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/439825.ts
-#EXTINF:-1 tvg-name="EL CHAVO DEL OCHO" tvg-logo="https://www.clipartmax.com/png/middle/423-4239319_el-chavo-el-chavo.png" group-title="24/7",24/7 | EL CHAVO DEL 8
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/16425.m3u8
-#EXTINF:-1 tvg-name="LOS SIMPSON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzy1TwcUx8gV4BFQgWaksQrunB67UKceCVAg&s.png" group-title="24/7",24/7 | LOS SIMPSON
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/38575.m3u8
-#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" tvg-logo="http://mundo2.vip:80/images/f79f8e01859d185c64a557c7c91cbb2d.jpg" group-title="24/7",24/7 | DORAEMON
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/17753.m3u8
-#EXTINF:-1 tvg-name="Dora la exploradora" tvg-id="Dora la exploradora.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png" group-title="24/7",24/7 | POPEYE
-http://xdplus.site:8880/live/LuisGuillenA/FPPHF/219234.ts
-#EXTINF:-1 tvg-name="Dora la exploradora" tvg-id="Dora la exploradora.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png" group-title="24/7",24/7 | LOS PICAPIEDRAS
-http://xdplus.site:8880/live/LuisGuillenA/FPPHF/177126.ts
-#EXTINF:-1 tvg-name="Dora la exploradora" tvg-id="Dora la exploradora.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png" group-title="24/7",24/7 | Looney Tunes
-http://planettvweb.com:8091/live/Maria9567/Dlun3685m/16428.m3u8
-#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="http://mundo2.vip:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="Película",Freddy contra Jason
-http://xdplus.site:8880/movie/JUA17CARR/XZDHP/14901.mkv
-#EXTINF:-1 tvg-name="FX" tvg-logo="http://mundo2.vip:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="Premium",FX
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Fx
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/9546.ts
-#EXTINF:-1 tvg-name="PLIM PLIM" tvg-logo="http://mundo2.vip:8080/images/26c48e02aee98ff0e7df2b1a5dc6536f.png" group-title="24/7",24/7 | KUNG FU PANDA
-http://xdplus.site:8880/live/AndresLLpro/TqhsHqdxsT/177183.ts
-#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cartoon_Network_logo_%281992-2004%29.svg/1200px-Cartoon_Network_logo_%281992-2004%29.svg.png" group-title="Premium",CARTOON NETWORK
+#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Cartoon network
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/19458.ts
-#EXTINF:-1 tvg-name="Cinecanal 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",CINECANAL
+#EXTINF:-1 tvg-name="Cinecanal 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",Cinecanal
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/9494.ts
+#EXTINF:-1 tvg-id="24/7" tvg-name="MIRACULOUS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kphxoWmU5NbNbkTSkJnMe3EbguE.jpg" group-title="24/7",24/7 | MIRACULOUS ⭐️
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/217139.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="DRAGON BALL 1 AL 44" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 1 AL 43 ⭐️
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/216196.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="BOB ESPONJA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7",24/7 | BOB ESPONJA
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/531694.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" group-title="24/7",24/7 | LA PANTERA ROSA
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/107989.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="LOS PADRINOS MÁGICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Timmy_Turner.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PADRINOS MÁGICOS
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/531670.ts
+#EXTINF:-1 tvg-id="24/7" tvg-name="MASHA Y EL OSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Masha_y_el_Oso.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | MASHA Y EL OSO
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/177124.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="LOS PITUFOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Los_Pitufos_%282019%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PITUFOS ⭐️
+http://xdplus.site:8880/live/LuisGuillenA/FPPHF/221633.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="EL CHAVO DEL 8" tvg-logo="https://www.pikpng.com/pngl/b/339-3392974_chavo-del-8-png-chavo-del-8-meme.png" group-title="24/7",24/7 | EL CHAVO DEL 8  ⭐️
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/216295.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="LOS SIMPSON T2 ⭐️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzy1TwcUx8gV4BFQgWaksQrunB67UKceCVAg&s.png" group-title="24/7",24/7 | LOS SIMPSON T2 ⭐️
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/216938.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="DORAEMON, EL GATO CÓSMICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Doraemon_1979Logo.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | DORAEMON
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/531650.m3u8
+#EXTINF:-1 tvg-id="24/7" tvg-name="POPEYE ⭐️" tvg-logo="https://i.pinimg.com/originals/6a/d2/2f/6ad22fbe580772ce46d033c37f77859c.jpg" group-title="24/7",24/7 | POPEYE ⭐️
+http://xdplus.site:8880/live/LuisGuillenA/FPPHF/219234.ts
+#EXTINF:-1 tvg-id="24/7" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/The_Flintstones_official_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PICAPIEDRAS
+http://xdplus.site:8880/live/LuisGuillenA/FPPHF/177126.ts
+#EXTINF:-1 tvg-id="24/7 |" tvg-name="XENA LA PRINCESA GUERRERA" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/MV5BMWY1NmY0ZjktYjdiNC00OWVjLWJkN2UtODUwOWY1NmQ1OGY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg" group-title="24/7",24/7 XENA LA PRINCESA GUERRERA
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/107948.ts
+#EXTINF:-1 tvg-id="24/7" tvg-name="KUNG FU PANDA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/z2iy3b07yqqt5iu/kungfupanda.png" group-title="24/7",24/7 | KUNG FU PANDA ⭐️
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/177183.ts
+#EXTINF:-1 tvg-id="Balto 2" tvg-name="Aventura en la tierra de hielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wSC82VnkZ2MhvfUWrkxDWr0csc.jpg" group-title="Películas",Balto 2: Aventura en la tierra de hielo
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/89830.mp4
+#EXTINF:-1 tvg-id="Balto" tvg-name="La leyenda del perro esquimal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAZ7dMCNWDxylwtz70J1WvEuXFt.jpg" group-title="Películas",Balto: La leyenda del perro esquimal
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/88277.avi
+#EXTINF:-1 tvg-id="Balto 3" tvg-name="Rescate del avión perdido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85Fdr2ScGteDsaZgyyaPFt07Hv3.jpg" group-title="Películas",Balto 3: Rescate del avión perdido
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/88279.avi
+#EXTINF:-1 tvg-id="Balto III" tvg-name="Aprendiendo a Volar (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSINOzHt225m5Xh106Z0WXQLDil.jpg" group-title="Películas",Balto III: Aprendiendo a Volar (2004)
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/9224.avi
+#EXTINF:-1 tvg-id="(2006)" tvg-name="Vecinos Invasores (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qKM3Rl1tQgOFO1fMA7DAizWZ5n.jpg" group-title="Películas",Vecinos Invasores (2006) 1080
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/9296.mkv
+#EXTINF:-1 tvg-id="(2005)" tvg-name="Chicken Little" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6C6zBg1dc7iZXwb1NP9Q4SiE8Cr.jpg" group-title="Películas",Chicken Little (2005) 1080 LAT
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/9229.mkv
+#EXTINF:-1 tvg-id="Happy Feet 2" tvg-name="Happy Feet 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCGdzG0XUij3BqIsygdNEAuFM1Z.jpg" group-title="Películas",Happy Feet 2
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/226999.mkv
+#EXTINF:-1 tvg-id="Jumanji" tvg-name="En la selva (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg" group-title="Películas",Jumanji: en la selva (2017)
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/228254.mp4
+#EXTINF:-1 tvg-id="Jumanji 3" tvg-name="El Siguiente Nivel 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg" group-title="Películas",Jumanji 3 el siguiente nivel
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/13098.mp4
+#EXTINF:-1 tvg-id="1997" tvg-name="Hércules (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16JPL3c6ET7ibfO35WjjWxCaVmj.jpg" group-title="Películas",Hércules (1997)
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/5084.avi
+#EXTINF:-1 tvg-id="Azteca uno.mx" tvg-name="Azteca uno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png" group-title="Tv méxico",Azteca uno
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/9599.m3u8
+#EXTINF:-1 tvg-id="Canal 5.mx" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Tv méxico",Canal 5 hd
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
+#EXTINF:-1 tvg-id="Canal 7.mx" tvg-name="Canal 7" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/Azteca-7-2019-2.png" group-title="Tv méxico",AZTECA 7
+http://xdplus.site:8880/live/LuisGuillenA/FPPHF/52965.ts
+#EXTINF:-1 tvg-id="Estrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Tv méxico",Canal de las estrellas
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/415379.ts
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.mx" tvg-name="PARAMOUNT CHANNEL" group-title="Película",Balto 2: aventura en la tierra de hielo
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/89830.mp4
+#EXTINF:-1 tvg-id="TELEMUNDO.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Película",Los padrinos mágicos - la película
+http://xdplus.site:8880/movie/BraulioGrijalbaP/DRHVN/88938.mkv
+#EXTINF:-1 tvg-id="TELENOVELAS.mx" tvg-name="TELENOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png" group-title="Película",Madagascar: la pócima del amor (2013)
+http://xdplus.site:8880/movie/BraulioGrijalbaP/DRHVN/5133.mp4
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="http://mundo2.vip:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="Película",Freddy contra jason
+http://xdplus.site:8880/movie/JUA17CARR/XZDHP/14901.mkv
 #EXTINF:-1 tvg-name="Canal Desde Temux" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/IMG_20260313_052520.jpg" group-title="Película",Vida salvaje
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/165306.mp4
