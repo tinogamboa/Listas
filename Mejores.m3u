@@ -42,7 +42,7 @@ http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/554566.ts
 #EXTINF:-1 tvg-name="Azteca uno" tvg-id="Azteca uno.mx" tvg-logo="http://mundo2.pro:80/images/090fff64b7e509594ce6d558d49ea66e.png" group-title="TV México",AZTECA UNO
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/9599.ts
 #EXTINF:-1 tvg-name="CANAL 5" tvg-id="Canal 5.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TV México",CANAL 5 HD
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.ts
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX.mx" tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="Premium",CINE LATINO
 http://planettvweb.com:8091/live/Maria9567/Dlun3685m/20352.m3u8
 #EXTINF:-1 tvg-name="Canal 7" tvg-id="Canal 7.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="TV México",AZTECA 7 HD
