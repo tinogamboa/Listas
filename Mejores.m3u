@@ -25,7 +25,7 @@ http://200.57.28.141:8540/play/a0ln
 http://45.70.168.162:12339/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.mx" tvg-name="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="Premium",Hbo 2
 http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo family
+#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/HBO_Family.svg" group-title="Premium",Hbo family
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/12854.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",Hbo plus
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
@@ -33,7 +33,7 @@ http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
 http://181.78.79.131:8000/play/a0qy
 #EXTINF:-1 tvg-id="NAT GEO.mx" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Nat geo
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/242015.ts
-#EXTINF:-1 tvg-id="National Geographic Wild.pe" tvg-name="Nat Geo WILD" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/National-Geographic-Logo.png" group-title="Premium",National Geographic
+#EXTINF:-1 tvg-id="National Geographic Wild.pe" tvg-name="Nat Geo WILD" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/National%20Geographic.png" group-title="Premium",National Geographic
 http://45.70.168.162:12339/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="SONY CHANNEL.mx" tvg-name="Sony 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium",Sony channel
 http://45.70.168.162:12339/play/a028/index.m3u8
@@ -69,7 +69,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/216196.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/531694.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" group-title="24/7",24/7 | LA PANTERA ROSA
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/107989.m3u8
-#EXTINF:-1 tvg-id="24/7" tvg-name="Plim Plim" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/large.PlimPlimTV.png.7ac3106baf391b06e8ea24798f9a5968.png" group-title="24/7",24/7 | Plim Plim
+#EXTINF:-1 tvg-id="24/7" tvg-name="Plim Plim" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/PlimPlimTV.png" group-title="24/7",24/7 | Plim Plim
 http://45.70.168.162:12339/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="LOS PADRINOS MÁGICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Timmy_Turner.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PADRINOS MÁGICOS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/531670.ts
@@ -87,7 +87,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/531650.m3u8
 http://xdplus.site:8880/live/LuisGuillenA/FPPHF/219234.ts
 #EXTINF:-1 tvg-id="24/7" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/The_Flintstones_official_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PICAPIEDRAS
 http://xdplus.site:8880/live/LuisGuillenA/FPPHF/177126.ts
-#EXTINF:-1 tvg-id="24/7 |" tvg-name="XENA LA PRINCESA GUERRERA" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/MV5BMWY1NmY0ZjktYjdiNC00OWVjLWJkN2UtODUwOWY1NmQ1OGY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg" group-title="24/7",24/7 XENA LA PRINCESA GUERRERA
+#EXTINF:-1 tvg-id="24/7 |" tvg-name="XENA LA PRINCESA GUERRERA" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/Xena.jpg" group-title="24/7",24/7 XENA LA PRINCESA GUERRERA
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/107948.ts
 #EXTINF:-1 tvg-id="24/7" tvg-name="KUNG FU PANDA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/z2iy3b07yqqt5iu/kungfupanda.png" group-title="24/7",24/7 | KUNG FU PANDA ⭐️
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/177183.ts
