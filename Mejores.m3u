@@ -73,7 +73,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/107989.m3u8
 http://45.70.168.162:12339/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="LOS PADRINOS MÁGICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Timmy_Turner.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PADRINOS MÁGICOS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/531670.ts
-#EXTINF:-1 tvg-id="24/7" tvg-name="MASHA Y EL OSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Masha_y_el_Oso.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | MASHA Y EL OSO
+#EXTINF:-1 tvg-id="24/7" tvg-name="MASHA Y EL OSO" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/Masha.jpg" group-title="24/7",24/7 | MASHA Y EL OSO
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/177124.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="LOS PITUFOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Los_Pitufos_%282019%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PITUFOS ⭐️
 http://xdplus.site:8880/live/LuisGuillenA/FPPHF/221633.m3u8
@@ -85,7 +85,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/216938.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/531650.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="POPEYE ⭐️" tvg-logo="https://i.pinimg.com/originals/6a/d2/2f/6ad22fbe580772ce46d033c37f77859c.jpg" group-title="24/7",24/7 | POPEYE ⭐️
 http://xdplus.site:8880/live/LuisGuillenA/FPPHF/219234.ts
-#EXTINF:-1 tvg-id="24/7" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/The_Flintstones_official_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7",24/7 | LOS PICAPIEDRAS
+#EXTINF:-1 tvg-id="24/7" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/Picapiedras.png" group-title="24/7",24/7 | LOS PICAPIEDRAS
 http://xdplus.site:8880/live/LuisGuillenA/FPPHF/177126.ts
 #EXTINF:-1 tvg-id="24/7 |" tvg-name="XENA LA PRINCESA GUERRERA" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/Xena.jpg" group-title="24/7",24/7 XENA LA PRINCESA GUERRERA
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/107948.m3u8
