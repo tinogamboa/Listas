@@ -45,6 +45,8 @@ http://45.70.168.162:12339/play/a01z/index.m3u8
 http://45.70.168.162:12339/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="SPACE.mx" tvg-name="SPACE" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="Premium",Space
 http://45.70.168.162:12339/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.mx" tvg-name="PARAMOUNT CHANNEL"tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="Premium",PARAMOUNT CHANNEL
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/54277.m3u8
 #EXTINF:-1 tvg-id="Nick Junior.mx" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Premium",NICK JR
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/211305.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://i.pinimg.com/originals/f5/b9/2d/f5b92dfed68fcef53bb9e16ad433846a.jpg" group-title="Premium",Nickelodeon
@@ -119,13 +121,11 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/241992.m3u8
 #EXTINF:-1 tvg-id="Estrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Tv méxico",Canal de las estrellas
 http://45.70.168.162:12339/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.mx" tvg-name="PARAMOUNT CHANNEL"tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="Premium",PARAMOUNT CHANNEL
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/54277.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Tv México",TELEMUNDO
 http://45.70.168.162:12339/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TELENOVELAS.mx" tvg-name="TELENOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png" group-title="Premium",TL NOVELAS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/108249.m3u8
 #EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" group-title="Película",Freddy contra jason
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/14901.mkv
-#EXTINF:-1 tvg-name="Canal Desde Temux" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1SGn7mYKKdeGO3X3xOJbsbPlPh.jpg" group-title="Película",Vida salvaje
+#EXTINF:-1 tvg-name="Canal Desde Temux" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg" group-title="Película",Vida salvaje
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/165306.mp4
