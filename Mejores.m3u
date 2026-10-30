@@ -31,14 +31,14 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/12854.m3u8
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
 #EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/HBO-XTREME.png" group-title="Premium",Hbo xtreme
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/54164.m3u8
-#EXTINF:-1 tvg-id="NAT GEO.mx" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Nat geo
-http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/242015.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD HD.mx" tvg-name="NAT GEO WILD HD" tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="Premium",NAT GEO WILD
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/36470.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/National%20Geographic.png" group-title="Premium",National Geographic
 http://45.70.168.162:12339/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="SONY CHANNEL.mx" tvg-name="Sony 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium",Sony channel
 http://45.70.168.162:12339/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" group-title="Premium",Syfy
-http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/19561.ts
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="Premium",SYFY
+http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/19561.3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Premium",TNT
 http://45.70.168.162:12339/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="WARNER TV.mx" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Premium",Warner tv
@@ -55,10 +55,10 @@ http://45.70.168.162:12339/play/a009/index.m3u8
 http://45.70.168.162:12339/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Premium",AXN
 http://45.70.168.162:12339/play/a00z/index.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Fx
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Premium",Fx
 http://45.70.168.162:12339/play/a011/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Cartoon network
-http://45.70.168.162:12339/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="https://tmsimg.fancybits.co/assets/s12131_ll_h3_aa.png" group-title="Premium",Cartoon network
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/439761.m3u8
 #EXTINF:-1 tvg-name="Cinecanal 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",Cinecanal
 http://45.70.168.162:12339/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="24/7" tvg-name="MIRACULOUS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kphxoWmU5NbNbkTSkJnMe3EbguE.jpg" group-title="24/7",24/7 | MIRACULOUS ⭐️
