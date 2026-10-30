@@ -26,7 +26,7 @@ http://45.70.168.162:12339/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.mx" tvg-name="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="Premium",Hbo 2
 http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo family
-http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/439797.ts
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/12854.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",Hbo plus
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
 #EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo xtreme
