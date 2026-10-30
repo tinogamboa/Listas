@@ -113,7 +113,7 @@ http://xdplus.site:8880/movie/JUA17CARR/XZDHP/13098.mp4
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/5084.avi
 #EXTINF:-1 tvg-id="Azteca uno.mx" tvg-name="Azteca uno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png" group-title="Tv méxico",Azteca uno
 http://45.70.168.162:12339/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="Canal 5.mx" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Tv méxico",CANAL 5
+#EXTINF:-1 tvg-id="Canal 5.mx" tvg-name="CANAL 5" tvg-logo="https://static.wikia.nocookie.net/thomas-y-sus-amigos-todas-las-locomotoras-van/images/5/58/Canal5.png/revision/latest/scale-to-width-down/284?cb=20211004150006&path-prefix=es" group-title="Tv méxico",CANAL 5
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/241991.m3u8
 #EXTINF:-1 tvg-id="Canal 7.mx" tvg-name="Canal 7" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/Azteca-7-2019-2.png" group-title="Tv méxico",AZTECA 7
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/241992.m3u8
