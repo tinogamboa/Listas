@@ -29,11 +29,11 @@ http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/12854.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",Hbo plus
 http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/198755.ts
-#EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Hbo xtreme
-http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/HBO-XTREME.png" group-title="Premium",Hbo xtreme
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/54164.m3u8
 #EXTINF:-1 tvg-id="NAT GEO.mx" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",Nat geo
-http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/242015.ts
-#EXTINF:-1 tvg-id="National Geographic Wild.pe" tvg-name="Nat Geo WILD" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/National%20Geographic.png" group-title="Premium",National Geographic
+http://xdplus.site:8880/live/BraulioGrijalbaP/DRHVN/242015.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/National%20Geographic.png" group-title="Premium",National Geographic
 http://45.70.168.162:12339/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="SONY CHANNEL.mx" tvg-name="Sony 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium",Sony channel
 http://45.70.168.162:12339/play/a028/index.m3u8
