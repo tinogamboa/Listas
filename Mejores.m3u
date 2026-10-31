@@ -10,7 +10,7 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/55511.m3u8
 #EXTINF:-1 tvg-id="DE PELICULA.mx" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Premium",De pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-name="SONY MOVIES" tvg-logo="https://s34792.pcdn.co//wp-content/uploads/2023/11/logo_sony-movies_white_v3.png" group-title="Premium",SONY MOVIES
-http://200.115.120.1:8000/play/ca030/index.m3u8
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/469055.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="Premium",Discovery channel
 http://45.70.168.162:12339/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Premium",DISCOVERY KIDS
