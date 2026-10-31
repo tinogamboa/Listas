@@ -26,7 +26,7 @@ http://45.70.168.162:12339/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.mx" tvg-name="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="Premium",HBO 2
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/19579.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://logodix.com/logo/789245.png" group-title="Premium",HBO FAMILY
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/439797.ts
 #EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",HBO PLUS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/19581.ts
 #EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/HBO-XTREME.png" group-title="Premium",Hbo xtreme
