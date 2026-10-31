@@ -9,18 +9,18 @@ http://45.70.168.162:12339/play/a00b/index.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/55511.m3u8
 #EXTINF:-1 tvg-id="DE PELICULA.mx" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Premium",De pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="DE PELICULA PLUS.mx" tvg-name="DE PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="Premium",De pelicula plus
+#EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-name="SONY MOVIES" tvg-logo="https://s34792.pcdn.co//wp-content/uploads/2023/11/logo_sony-movies_white_v3.png" group-title="Premium",SONY MOVIES
 http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="Premium",Discovery channel
 http://45.70.168.162:12339/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Premium",DISCOVERY KIDS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/36459.m3u8
 #EXTINF:-1 tvg-id="GOLDEN.mx" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Premium",GOLDEN
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/9504.m3u8
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/242027.m3u8
 #EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Premium",GOLDEN EDGE
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/439804.m3u8
-#EXTINF:-1 tvg-id="GOLDEN PREMIER.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Premium",Golden premier
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/469058.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PREMIER.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Premium",GOLDEN PREMIER
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/9504.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="Premium",HBO
 http://45.70.168.162:12339/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.mx" tvg-name="HBO 2" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="Premium",HBO 2
@@ -125,7 +125,9 @@ http://45.70.168.162:12339/play/a01j/index.m3u8
 http://45.70.168.162:12339/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TELENOVELAS.mx" tvg-name="TELENOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png" group-title="Premium",TL NOVELAS
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/108249.m3u8
-#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" group-title="Película",Freddy contra jason
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" group-title="Películas",Freddy contra jason
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/14901.mkv
-#EXTINF:-1 tvg-name="Canal Desde Temux" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg" group-title="Película",Vida salvaje
+#EXTINF:-1 tvg-name="Canal Desde Temux" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg" group-title="Películas",Vida salvaje
 http://xdplus.site:8880/movie/JUA17CARR/XZDHP/165306.mp4
+#EXTINF:-1 tvg-name="LOONEY TUNES" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/LooneyTunes.png" group-title="24/7",24/7 | LOONEY TUNES
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/590279.ts
