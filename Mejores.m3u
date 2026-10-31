@@ -27,8 +27,8 @@ http://45.70.168.162:12339/play/a00w/index.m3u8
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/19579.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-name="HBO FAMILY" tvg-logo="https://logodix.com/logo/789245.png" group-title="Premium",HBO FAMILY
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
-#EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",Hbo plus
-http://xdplus.site:8880/live/JUA17CARR/XZDHP/185172.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS.mx" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="Premium",HBO PLUS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3570
 #EXTINF:-1 tvg-id="HBO XTREME.mx" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tinogamboa/Listas/refs/heads/main/images/HBO-XTREME.png" group-title="Premium",Hbo xtreme
 http://xdplus.site:8880/live/JUA17CARR/XZDHP/54164.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD HD.mx" tvg-name="NAT GEO WILD HD" tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="Premium",NAT GEO WILD
