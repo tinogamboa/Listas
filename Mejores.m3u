@@ -53,8 +53,8 @@ http://xdplus.site:8880/live/JUA17CARR/XZDHP/211305.m3u8
 http://45.70.168.162:12339/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel.mx" tvg-name="Disney Channel" tvg-logo="https://i.pinimg.com/originals/60/11/f4/6011f4f6ad9969379a9dc9b63dad8a35.png" group-title="Premium",Disney Channel
 http://45.70.168.162:12339/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="Disney Universal.mx" tvg-name="Universal" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="Premium",Universal
-http://45.70.168.162:12339/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Disney UNIVERSAL PREMIERE.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="Premium",UNIVERSAL PREMIERE
+http://xdplus.site:8880/live/JUA17CARR/XZDHP/236380.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Premium",AXN
 http://45.70.168.162:12339/play/a00z/index.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Premium",Fx
